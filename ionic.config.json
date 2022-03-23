@@ -1,0 +1,7 @@
+{
+  "name": "beacon-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
